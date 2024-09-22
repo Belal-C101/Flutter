@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2024-09-22 at 10.28.32_7143766c.jpg" alt="Login Page" width="300"/>
+<img src="WhatsApp Image 2024-09-22 at 10.28.32_7143766c.jpg" alt="Login Page" />
 
 <img src="WhatsApp Image 2024-09-22 at 10.28.32_87075f94.jpg" alt="Sign Up Page" width="300"/>
 

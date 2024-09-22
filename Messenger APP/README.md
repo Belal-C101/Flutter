@@ -6,7 +6,7 @@
 ![WhatsApp Image 2024-09-22 at 10 28 32_6893426b](https://github.com/user-attachments/assets/c3726207-6b3c-4c2b-ab56-8dd84e98c134)
 
 
-<img src="https://github.com/user-attachments/assets/55581c88-dce5-435d-95a4-7649bb80126e" alt="Sign Up Page" width="150" hight="100"/>
+<img src="https://github.com/user-attachments/assets/55581c88-dce5-435d-95a4-7649bb80126e" alt="Sign Up Page" width="150" hight="50"/>
 
 <img src="https://github.com/user-attachments/assets/15c45f62-fa75-4c45-8759-200a330f349a" alt="Login Page" width="150" hight="100"/>
 
